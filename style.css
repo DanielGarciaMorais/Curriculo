@@ -1,0 +1,40 @@
+body
+{
+    padding-left: 3%;
+    padding-right: 3%;
+    background-image: url('img/papeldeparede.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: grey;
+    background-attachment: fixed;
+}
+.titulo
+{
+    font-size: 600%;
+    font-family: Archivo;
+    color: white;
+}
+.titulo2
+{
+    font-family: Archivo;
+    font-size: 300%; 
+    color: #f1c232;
+}
+.paragrafo
+{
+    font-family: Archivo;
+    font-size: 200%;
+    color: white;
+}
+.redes
+{
+    display: inline-block;
+    margin-right: 10%;
+    color: #f1c232;
+}
+.icone
+{
+    font-size: 400%;
+    color: white;
+    margin-right: 1%;
+}
